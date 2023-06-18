@@ -411,9 +411,7 @@
 
      int main() {
          int numeros[5] = {1, 2, 3, 4, 5};
-         printf("Elementos do vetor
-
-: ");
+         printf("Elementos do vetor: ");
          for (int i = 0; i < 5; i++) {
              printf("%d ", numeros[i]);
          }
