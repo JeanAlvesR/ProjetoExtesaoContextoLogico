@@ -215,9 +215,7 @@
      Saída esperada:
      ```
      Resultado 1: 11
-     Resultado 2:
-
- 21
+     Resultado 2:21
      Resultado 3: 3
      Resultado 4: 1
      ```
