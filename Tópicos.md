@@ -115,9 +115,7 @@
      int main() {
          bool verdadeiro = true;
          bool falso = false;
-         printf
-
-("Verdadeiro: %d\n", verdadeiro);
+         printf("Verdadeiro: %d\n", verdadeiro);
          printf("Falso: %d\n", falso);
          return 0;
      }
